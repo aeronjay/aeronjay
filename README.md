@@ -1,16 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working on School AI Agent<br>👯 I’m looking to collaborate on AI projects<br>🤝 I’m looking for help with NLP with RAG<br>🌱 I’m currently learning RAG framework<br>💬 Ask me about Computer Science<br>⚡ Fun fact I love Chess
+<img src="./assets/banner.svg" alt="Aeron Jay Bulatao: likes backends, automating boring things, RAG, chess and tennis" width="100%">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3200&pause=900&color=D97706&center=true&vCenter=true&width=620&lines=If+I+do+it+twice%2C+I+write+a+script+for+it;Understand.+Build.+Break.+Fix.+Ship.;Reading+the+board+before+the+next+move;Consistency+beats+intensity" alt="If I do it twice, I write a script for it. Understand. Build. Break. Fix. Ship.">
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tebats) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aeron96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tebats) 
+<p align="center">
+  <a href="https://aeronjay.me"><img src="https://img.shields.io/badge/aeronjay.me-0a0a0a?style=flat-square&logo=googlechrome&logoColor=d97706" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/bulataoaeronjay/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Q5NzcwNiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn"></a>
+  <a href="mailto:bulataoaeronjay@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=d97706" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=aeronjay&label=profile%20views&color=d97706&style=flat-square" alt="Profile views">
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Hey, I'm Aeron 👋
 
+Software engineer from the Philippines who likes digging into how things actually work. I'm drawn to friction: if a workflow is clunky, repetitive or error-prone, I want to know why, and then I want to build the thing that makes it go away.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```kotlin
+object Aeron {
+    val from      = "Philippines 🇵🇭"
+    val likes     = listOf("backends", "automation", "taking things apart")
+    val tinkering = listOf("RAG pipelines", "vector search", "scrapers that don't break")
+    val offline   = listOf("♟️ chess", "🎾 tennis", "🏋️ gym")
+    val motto     = "Understand. Build. Break. Fix. Ship."
+}
+```
 
+## A few things about me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- ♟️ Chess is how I unwind, and it's not that different from debugging: read the position, think a few moves ahead, then commit.
+- 🎾 Tennis and lifting taught me that consistency beats intensity. It works for codebases too.
+- 🤖 I built a chatbot whose best feature is saying "I don't know" when the documents don't cover the question.
+- 🕷️ I've written scrapers for sites that really didn't want to be scraped. Selector fallback chains are my love language.
+- 💬 Ask me about backend design, automating boring workflows, or which chess opening I'm currently ruining.
+
+## Tools I reach for
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,ts,js,spring,nodejs,react,nextjs&theme=dark" alt="Kotlin, Java, Python, TypeScript, JavaScript, Spring, Node.js, React, Next.js">
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,aws,docker,cloudflare,vercel,n8n,playwright&theme=dark" alt="PostgreSQL, MongoDB, Supabase, AWS, Docker, Cloudflare, Vercel, n8n, Playwright">
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aeronjay&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=21600&bg_color=0a0a0a&title_color=d97706&text_color=e7e5e4&icon_color=d97706&border_color=292524" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeronjay&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&cache_seconds=21600&bg_color=0a0a0a&title_color=d97706&text_color=e7e5e4&icon_color=d97706&border_color=292524" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aeronjay&background=0A0A0A&border=292524&stroke=292524&ring=D97706&fire=D97706&currStreakNum=E7E5E4&sideNums=E7E5E4&currStreakLabel=D97706&sideLabels=A8A29E&dates=78716C" alt="Contribution streak">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aeronjay/aeronjay/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/aeronjay/aeronjay/output/snake.svg" alt="Contribution graph being eaten by a snake" width="100%">
+</picture>
+
+---
+
+<p align="center">
+  <sub>Building something interesting? Say hi at <a href="mailto:bulataoaeronjay@gmail.com">bulataoaeronjay@gmail.com</a> or poke around <a href="https://aeronjay.me">aeronjay.me</a>.</sub>
+</p>

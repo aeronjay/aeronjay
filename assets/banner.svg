@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-labelledby="t">
+  <title id="t">aeronjay: builds backends, automates boring things, plays chess</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .prompt { fill: #d97706; }
+    .cmd { fill: #e7e5e4; }
+    .out { fill: #a8a29e; }
+    .dim { fill: #57534e; }
+    .line { opacity: 0; animation: show .01s forwards; }
+    .l1 { animation-delay: .4s; }  .l2 { animation-delay: 1.1s; }
+    .l3 { animation-delay: 1.9s; } .l4 { animation-delay: 2.6s; }
+    .l5 { animation-delay: 3.4s; } .l6 { animation-delay: 4.1s; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; opacity: 1; } .cursor { animation: none; } }
+  </style>
+
+  <rect x="1" y="1" width="998" height="338" rx="14" fill="#0a0a0a" stroke="#292524" stroke-width="2"/>
+  <path d="M1 44 H999" stroke="#292524" stroke-width="2"/>
+  <circle cx="30" cy="23" r="7" fill="#44403c"/>
+  <circle cx="54" cy="23" r="7" fill="#44403c"/>
+  <circle cx="78" cy="23" r="7" fill="#d97706"/>
+  <text x="500" y="28" text-anchor="middle" class="mono dim" font-size="14">~/aeronjay</text>
+
+  <g class="mono" font-size="20">
+    <text x="36" y="92" class="line l1"><tspan class="prompt">❯</tspan><tspan class="cmd"> whoami</tspan></text>
+    <text x="36" y="148" class="line l2 sans" font-size="44" font-weight="700" fill="#e7e5e4">Aeron Jay Bulatao<tspan fill="#d97706">.</tspan></text>
+
+    <text x="36" y="200" class="line l3"><tspan class="prompt">❯</tspan><tspan class="cmd"> cat likes.txt</tspan></text>
+    <text x="36" y="232" class="line l4 out">backends · automating boring things · RAG · chess · tennis</text>
+
+    <text x="36" y="280" class="line l5"><tspan class="prompt">❯</tspan><tspan class="cmd"> ./status --now</tspan></text>
+    <text x="36" y="312" class="line l6 out">probably debugging something, or losing at chess<tspan class="cursor" fill="#d97706">▍</tspan></text>
+  </g>
+
+  <g opacity=".8">
+    <g fill="#292524">
+      <rect x="840" y="80" width="30" height="30"/><rect x="900" y="80" width="30" height="30"/>
+      <rect x="870" y="110" width="30" height="30"/><rect x="930" y="110" width="30" height="30"/>
+      <rect x="840" y="140" width="30" height="30"/><rect x="900" y="140" width="30" height="30"/>
+      <rect x="870" y="170" width="30" height="30"/><rect x="930" y="170" width="30" height="30"/>
+    </g>
+    <text x="885" y="162" text-anchor="middle" font-size="40" fill="#d97706" class="sans">♞</text>
+  </g>
+</svg>
